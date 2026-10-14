@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="100%" role="img" aria-labelledby="t d">
+  <title id="t">Hoang — backend engineer in the making</title>
+  <desc id="d">Hero showing the name Hoang, UIT student focused on Java and Spring Boot, next to an HTTP request and JSON response.</desc>
+    <rect width="1200" height="420" rx="24" fill="#0d1117"/>
+  <g stroke="#21262d" stroke-width="1">
+    <path d="M0 105H1200M0 210H1200M0 315H1200"/>
+  </g>
+  <rect x="0" y="0" width="8" height="420" rx="4" fill="#6DB33F"/>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+    <text x="64" y="96" font-size="22" fill="#6DB33F">$ whoami</text>
+    <text x="64" y="190" font-size="84" font-weight="700" fill="#f0f6fc" font-family="system-ui,-apple-system,Segoe UI,Helvetica,Arial,sans-serif">Hoang</text>
+    <text x="64" y="244" font-size="30" fill="#c9d1d9" font-family="system-ui,-apple-system,Segoe UI,Helvetica,Arial,sans-serif">Backend engineer in the making</text>
+    <text x="64" y="288" font-size="22" fill="#8b949e" font-family="system-ui,-apple-system,Segoe UI,Helvetica,Arial,sans-serif">Student at UIT – VNU-HCM</text>
+    <g font-size="22">
+      <rect x="64" y="318" width="110" height="40" rx="20" fill="#1c2d1a" stroke="#6DB33F"/>
+      <text x="119" y="346" text-anchor="middle" fill="#8ddb5b">Java</text>
+      <rect x="188" y="318" width="170" height="40" rx="20" fill="#1c2d1a" stroke="#6DB33F"/>
+      <text x="273" y="346" text-anchor="middle" fill="#8ddb5b">Spring Boot</text>
+      <rect x="372" y="318" width="150" height="40" rx="20" fill="#1c2d1a" stroke="#6DB33F"/>
+      <text x="447" y="346" text-anchor="middle" fill="#8ddb5b">Postgres</text>
+    </g>
+    <!-- request/response card -->
+    <rect x="640" y="60" width="500" height="300" rx="16" fill="#0d1117" stroke="#30363d"/>
+    <circle cx="672" cy="92" r="7" fill="#ff5f56"/><circle cx="698" cy="92" r="7" fill="#ffbd2e"/><circle cx="724" cy="92" r="7" fill="#27c93f"/>
+    <text x="664" y="144" font-size="22" fill="#8b949e">GET</text>
+    <text x="722" y="144" font-size="22" fill="#c9d1d9">/api/hoang</text>
+    <text x="664" y="184" font-size="22" fill="#27c93f">200 OK</text>
+    <text x="664" y="228" font-size="22" fill="#c9d1d9">{</text>
+    <text x="688" y="262" font-size="22" fill="#79c0ff">focus:</text>
+    <text x="776" y="262" font-size="22" fill="#a5d6ff">scalable systems</text>
+    <text x="688" y="296" font-size="22" fill="#79c0ff">learning:</text>
+    <text x="802" y="296" font-size="22" fill="#a5d6ff">system design</text>
+    <text x="664" y="330" font-size="22" fill="#c9d1d9">}</text>
+  </g>
+</svg>
